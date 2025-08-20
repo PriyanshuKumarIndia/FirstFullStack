@@ -11,6 +11,7 @@ node_modules
 dist
 dist-ssr
 *.local
+# https://firstfullstack-p8mm.onrender.com/
 
 # Editor directories and files
 .vscode/*
